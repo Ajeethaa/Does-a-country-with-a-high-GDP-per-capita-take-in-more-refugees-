@@ -5,6 +5,7 @@
 >For this project, I will be including three indicators; population growth, refugees by percentage* and GDP per capita. I will be focusing on three countries which I will choose based on the lowest, middle and highest GDP per capita in the year 2017. The focus year is 2017 to simplify the research. All data will be extracted from Gapminder.com.
 
 > References:
+
 >https://www.listendata.com/2019/07/how-to-filter-pandas-dataframe.html
 
 >https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
