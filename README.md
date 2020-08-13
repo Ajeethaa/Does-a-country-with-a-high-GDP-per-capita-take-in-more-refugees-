@@ -1,4 +1,4 @@
-# InvestigateDataset
+# Does a country with a high GDP per capita take in more refugees?
 
 
 The aim of this project is to investigate correlation between wealth of a country and its intake of refugees. The notion that I have adopted is wealthier countries should take in more refugees. The analysis will use GDP per capita, size of population and the rate of intake yearly.  
