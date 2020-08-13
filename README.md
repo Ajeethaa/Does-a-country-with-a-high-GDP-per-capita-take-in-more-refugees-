@@ -1,8 +1,9 @@
 # InvestigateDataset
 
->This project will find out if a country with the highest GDP per capita would have a higher percentage of refugees. The notion is a country that is wealthier would have the necessary resources and fund to host as many refugees that the one that has the lowest GDP per capita. This analysis will not be a comprehensive one as GDP per capita depends on a number of factors including population size.
 
->For this project, I will be including three indicators; population growth, refugees by percentage* and GDP per capita. I will be focusing on three countries which I will choose based on the lowest, middle and highest GDP per capita in the year 2017. The focus year is 2017 to simplify the research. All data will be extracted from Gapminder.com.
+The aim of this project is to investigate correlation between wealth of a country and its intake of refugees. The notion that I have adopted is wealthier countries should take in more refugees. The analysis will use GDP per capita, size of population and the rate of intake yearly.  
+
+To simplify the scope of the project, I will only be analysing three countries. I chose these countries using their GDP per capita in the year 2017. The three countries are in the order of highest, lowest and the average amongst the list of countries. All data therein are from Gapminder.com.
 
 > References:
 
