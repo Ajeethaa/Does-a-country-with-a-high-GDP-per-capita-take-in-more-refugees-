@@ -7,22 +7,18 @@
 
 > What do I want to find out: whether high GDP means high refugee intake?  
 
->__Conclusion:__ The countries that have least population growth have fewer refugees. The countries that have lower GDP per capita have hosted the most percentage of refugees. The wealthiest country has fewer refugees. This finding tells that the country that has the highest GDP per capita has the fewest number of refugees.
+#__Conclusion:__ 
+> The countries that have least population growth have fewer refugees. The countries that have lower GDP per capita have hosted the most percentage of refugees. The wealthiest country has fewer refugees. This finding tells that the country that has the highest GDP per capita has the fewest number of refugees.
 
 > More on the project, click [here.](https://ajeethaa.github.io/GDP%20vs%20Refugee%20Intake%20-%20Investigate%20a%20Dataset.html)
 
-> *All data therein are from Gapminder.com.
+>_All data therein are from Gapminder.com_
 
-> References:
+#__References:__
 
 >https://www.listendata.com/2019/07/how-to-filter-pandas-dataframe.html
-
 >https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
-
 >https://www.tutorialspoint.com/numpy/index.htm
-
 >https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
-
 >http://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot
-
 >https://www.gapminder.org/data/
