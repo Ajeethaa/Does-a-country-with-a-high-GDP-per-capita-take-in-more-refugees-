@@ -9,7 +9,7 @@
 # __Conclusion:__ 
 > The countries that have least population growth have fewer refugees. The countries that have lower GDP per capita have hosted the most percentage of refugees. The wealthiest country has fewer refugees. This finding tells that the country that has the highest GDP per capita has the fewest number of refugees.
 
-> More on the project, click [here.](https://ajeethaa.github.io/GDP%20vs%20Refugee%20Intake%20-%20Investigate%20a%20Dataset.html)
+> More on the project, click [here.](https://github.com/Ajeethaa/GDP-vs-Refugee-Intake/blob/master/GDP%20vs%20Refugee%20Intake%20-%20Investigate%20a%20Dataset.html)
 
 >_All data therein is from Gapminder.com_
 
